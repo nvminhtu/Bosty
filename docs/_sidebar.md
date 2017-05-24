@@ -5,7 +5,8 @@
   - [Contact Information](contact-information.md)
   - [QA Ranking](qa-ranking.md)
   - [QA Cover Background](qa-cover.md)
-
+  - [Picture Size](pic-size.md)
+  
 - Pages
   - [Company](company.md)
   - [Studio](studio.md)
