@@ -1,8 +1,8 @@
 # Picture Size for Uploading
 
-## News in Home page display
+## Media in Company Page
 
-![news](_media/news-home.png)
+![news](_media/size-media.png)
 
 ## You can add/edit News
 
